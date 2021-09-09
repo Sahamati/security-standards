@@ -3,7 +3,7 @@
 * [Overview – Security Standards](README.md)
 * [Background](background.md)
 * [Layered Security](layered-security.md)
-* [Mapping layered security with AA ecosystem APIs](untitled-1.md)
+* [Mapping layered security with AA ecosystem APIs](mapping-layered-security-with-aa-ecosystem.md)
 * [API Design Strategy Best Practices](api-design-strategy-best-practices.md)
 
 ## Annexures
