@@ -1,12 +1,11 @@
 # Overview – Security Standards
 
-##             **API Best Practices, Security Policies, and Standards**
+## **API Best Practices, Security Policies, and Standards**
 
-                                                                           **For NBFC-AA Ecosystem**
+### For NBFC-AA Ecosystem
 
-![](.gitbook/assets/0.jpeg)
+![](<.gitbook/assets/image (1).png>)
 
-                                                                                    **20-Apr-2021**
+**Last update: 20-Apr-2021**
 
-                                                                                            **1.1**
-
+**Version: 1.1**
